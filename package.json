@@ -1,0 +1,23 @@
+{
+  "name": "praemo-razor-visual",
+  "version": "1.0.0",
+  "description": "Utilities to support the rendering and visualization of insights and notificaitons gained from the Razor™ industrial AI/ML engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinkimpraemo/praemo-razor-visual.git"
+  },
+  "keywords": [
+    "Praemo",
+    "Razor"
+  ],
+  "author": "Praemo Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinkimpraemo/praemo-razor-visual/issues"
+  },
+  "homepage": "https://github.com/kevinkimpraemo/praemo-razor-visual#readme"
+}
