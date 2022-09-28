@@ -1,6 +1,6 @@
 {
   "name": "praemo-razor-visual",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilities to support the rendering and visualization of insights and notificaitons gained from the Razor™ industrial AI/ML engine.",
   "main": "index.js",
   "scripts": {
