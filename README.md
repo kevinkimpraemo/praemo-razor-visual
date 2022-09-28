@@ -23,7 +23,7 @@ Starting quickly with an historical data set, Razor™ will develop AI/ML models
 
 ### Install
 
-`npm install praemo-visual`
+`npm install praemo-razor-visual`
 
 ### Use
 
@@ -45,5 +45,4 @@ let chart = LineChart(chartData)
 ## Details and Support
 
 [Help & Support](https://www.praemo.com/support)  
-[License Agreement](https://go.microsoft.com/fwlink/?linkid=2041178)  
 [Privacy Policy](https://praemo.com/privacy-policy/)
